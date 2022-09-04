@@ -1,7 +1,8 @@
 # Project Author
 GHANSHYAM PATIL 
+
 Contact me via-
-mail:  
+mail:0302ghanshyamr@gmail.com  
 linkedIn-  
 Phone-  
 # CALFIT ~HEALTHY FITNESS CALS
@@ -17,5 +18,3 @@ Our system or website is built on HTML, CSS and JavaScript which is a client-sid
 
 •	FAT CALCULATOR
  
-All these parameters will be calculated which will provide the patient with accurate information of his or her health status without buying any products.
-	One can also surf through a section known as health hacks which will provide different hacks related to food and health which can make our life more easy and comfortabl
